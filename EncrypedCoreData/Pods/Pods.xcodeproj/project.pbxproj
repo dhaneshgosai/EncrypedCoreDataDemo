@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -63,13 +63,13 @@
 		3F1718AFDBC2158E9415EAD2F2F57B1D /* SQLCipher-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SQLCipher-prefix.pch"; sourceTree = "<group>"; };
 		464326D134BFEF11EAEEF83561082691 /* Pods-EncrypedCoreData-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EncrypedCoreData-frameworks.sh"; sourceTree = "<group>"; };
 		514813C25F10FFED4874B058AA86B6C0 /* EncryptedStore.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EncryptedStore.m; path = "Incremental Store/EncryptedStore.m"; sourceTree = "<group>"; };
-		5833566441E2B37C945470D13D7E553F /* SQLCipher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SQLCipher.framework; path = SQLCipher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5833566441E2B37C945470D13D7E553F /* SQLCipher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SQLCipher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F02FDC5B6C1174D9E31F8137B6989FC /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreData.framework; sourceTree = DEVELOPER_DIR; };
 		79435F1B02176FA3BAA05CCCD52DA76C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BAEE377120178EC1753CC12AE1254EB /* Pods-EncrypedCoreData-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EncrypedCoreData-acknowledgements.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96B1E35ABF36DD8DC90BDD9FDBC20228 /* Pods-EncrypedCoreData.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EncrypedCoreData.debug.xcconfig"; sourceTree = "<group>"; };
-		97D0028A5E12231148C82E19F2962A2E /* sqlite3.c */ = {isa = PBXFileReference; includeInIndex = 1; path = sqlite3.c; sourceTree = "<group>"; };
+		97D0028A5E12231148C82E19F2962A2E /* sqlite3.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = sqlite3.c; sourceTree = "<group>"; };
 		99266E3E4F1CB8C2ADDA070C5524755F /* EncryptedCoreData-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EncryptedCoreData-prefix.pch"; sourceTree = "<group>"; };
 		A72B776800B9F491044E788B4107529A /* SQLCipher-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SQLCipher-dummy.m"; sourceTree = "<group>"; };
 		A9A91FBED5D05C37ABCCDF42E2516EA4 /* Pods-EncrypedCoreData-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EncrypedCoreData-dummy.m"; sourceTree = "<group>"; };
@@ -78,8 +78,8 @@
 		C2D0A0BE8A0374CA4A9E3A01F298B675 /* EncryptedCoreData-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EncryptedCoreData-dummy.m"; sourceTree = "<group>"; };
 		D20278A6CFCDA66E69C01B88495A0BDC /* SQLCipher.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SQLCipher.xcconfig; sourceTree = "<group>"; };
 		D52131CDDB1D9392CE13054189C53C76 /* Pods-EncrypedCoreData.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EncrypedCoreData.release.xcconfig"; sourceTree = "<group>"; };
-		DBC0E96A3A39CB3C1DC9520A83DB2BC8 /* Pods_EncrypedCoreData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EncrypedCoreData.framework; path = "Pods-EncrypedCoreData.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E45CB17A63CF66062F832913C9233F55 /* EncryptedCoreData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = EncryptedCoreData.framework; path = EncryptedCoreData.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBC0E96A3A39CB3C1DC9520A83DB2BC8 /* Pods_EncrypedCoreData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EncrypedCoreData.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45CB17A63CF66062F832913C9233F55 /* EncryptedCoreData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EncryptedCoreData.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5833DEF166786D7F3EA969D35A9277D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		EE8321E0363566758728C2342905FD77 /* Pods-EncrypedCoreData-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EncrypedCoreData-umbrella.h"; sourceTree = "<group>"; };
 		F1FB6328B4208D5757354AC91E5DC84F /* Pods-EncrypedCoreData-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EncrypedCoreData-resources.sh"; sourceTree = "<group>"; };
@@ -167,7 +167,6 @@
 				514813C25F10FFED4874B058AA86B6C0 /* EncryptedStore.m */,
 				50E9583097F37361867E60B599496061 /* Support Files */,
 			);
-			name = EncryptedCoreData;
 			path = EncryptedCoreData;
 			sourceTree = "<group>";
 		};
@@ -239,7 +238,6 @@
 				B03CF5566B7E13D88AB81A625C231D72 /* common */,
 				1D8C3058E114C1E05AE883327DECE5AA /* Support Files */,
 			);
-			name = SQLCipher;
 			path = SQLCipher;
 			sourceTree = "<group>";
 		};
@@ -345,14 +343,15 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1020;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = A0F722135C43D4416D7BE7BCAAFE7BD3 /* Products */;
@@ -421,6 +420,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -611,6 +611,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";

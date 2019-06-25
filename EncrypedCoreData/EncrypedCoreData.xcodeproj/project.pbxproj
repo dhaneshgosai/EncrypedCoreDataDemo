@@ -10,24 +10,28 @@
 		1E0F368621B803F0006F539D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F368521B803F0006F539D /* AppDelegate.swift */; };
 		1E0F368821B803F0006F539D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F368721B803F0006F539D /* ViewController.swift */; };
 		1E0F368B21B803F0006F539D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F368921B803F0006F539D /* Main.storyboard */; };
-		1E0F368E21B803F0006F539D /* EncrypedCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1E0F368C21B803F0006F539D /* EncrypedCoreData.xcdatamodeld */; };
 		1E0F369021B80400006F539D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F368F21B80400006F539D /* Assets.xcassets */; };
 		1E0F369321B80400006F539D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0F369121B80400006F539D /* LaunchScreen.storyboard */; };
+		1E96950622C231DA00825F1F /* EncrypedCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1E96950022C231DA00825F1F /* EncrypedCoreData.xcdatamodeld */; };
 		F1AA5A032C8C125F7FA4633C /* Pods_EncrypedCoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E24673A7940398F5235CECE /* Pods_EncrypedCoreData.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		090C4DF32F749A3049CB2F8C /* Pods-EncrypedCoreData.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EncrypedCoreData.release.xcconfig"; path = "Pods/Target Support Files/Pods-EncrypedCoreData/Pods-EncrypedCoreData.release.xcconfig"; sourceTree = "<group>"; };
-		1E0A627C21BE48130023CE34 /* EncrypedCoreData 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 2.xcdatamodel"; sourceTree = "<group>"; };
-		1E0A627D21BE4A7C0023CE34 /* EncrypedCoreData 3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 3.xcdatamodel"; sourceTree = "<group>"; };
 		1E0F368221B803F0006F539D /* EncrypedCoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EncrypedCoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E0F368521B803F0006F539D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E0F368721B803F0006F539D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1E0F368A21B803F0006F539D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		1E0F368D21B803F0006F539D /* EncrypedCoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EncrypedCoreData.xcdatamodel; sourceTree = "<group>"; };
 		1E0F368F21B80400006F539D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E0F369221B80400006F539D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1E0F369421B80401006F539D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E96950122C231DA00825F1F /* EncrypedCoreData 2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 2.xcdatamodel"; sourceTree = "<group>"; };
+		1E96950222C231DA00825F1F /* EncrypedCoreData 3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 3.xcdatamodel"; sourceTree = "<group>"; };
+		1E96950322C231DA00825F1F /* EncrypedCoreData 4.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 4.xcdatamodel"; sourceTree = "<group>"; };
+		1E96950422C231DA00825F1F /* EncrypedCoreData 5.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 5.xcdatamodel"; sourceTree = "<group>"; };
+		1E96950522C231DA00825F1F /* EncrypedCoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EncrypedCoreData.xcdatamodel; sourceTree = "<group>"; };
+		1E96950722C231F400825F1F /* EncrypedCoreData 6.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 6.xcdatamodel"; sourceTree = "<group>"; };
+		1E96950822C2326600825F1F /* EncrypedCoreData 7.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = "EncrypedCoreData 7.xcdatamodel"; sourceTree = "<group>"; };
 		8E24673A7940398F5235CECE /* Pods_EncrypedCoreData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EncrypedCoreData.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C93C30EAE8D0C325FBF059FB /* Pods-EncrypedCoreData.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EncrypedCoreData.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EncrypedCoreData/Pods-EncrypedCoreData.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -88,7 +92,7 @@
 				1E0F368F21B80400006F539D /* Assets.xcassets */,
 				1E0F369121B80400006F539D /* LaunchScreen.storyboard */,
 				1E0F369421B80401006F539D /* Info.plist */,
-				1E0F368C21B803F0006F539D /* EncrypedCoreData.xcdatamodeld */,
+				1E96950022C231DA00825F1F /* EncrypedCoreData.xcdatamodeld */,
 			);
 			path = EncrypedCoreData;
 			sourceTree = "<group>";
@@ -208,7 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E0F368821B803F0006F539D /* ViewController.swift in Sources */,
-				1E0F368E21B803F0006F539D /* EncrypedCoreData.xcdatamodeld in Sources */,
+				1E96950622C231DA00825F1F /* EncrypedCoreData.xcdatamodeld in Sources */,
 				1E0F368621B803F0006F539D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -413,14 +417,18 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		1E0F368C21B803F0006F539D /* EncrypedCoreData.xcdatamodeld */ = {
+		1E96950022C231DA00825F1F /* EncrypedCoreData.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				1E0A627D21BE4A7C0023CE34 /* EncrypedCoreData 3.xcdatamodel */,
-				1E0A627C21BE48130023CE34 /* EncrypedCoreData 2.xcdatamodel */,
-				1E0F368D21B803F0006F539D /* EncrypedCoreData.xcdatamodel */,
+				1E96950822C2326600825F1F /* EncrypedCoreData 7.xcdatamodel */,
+				1E96950722C231F400825F1F /* EncrypedCoreData 6.xcdatamodel */,
+				1E96950122C231DA00825F1F /* EncrypedCoreData 2.xcdatamodel */,
+				1E96950222C231DA00825F1F /* EncrypedCoreData 3.xcdatamodel */,
+				1E96950322C231DA00825F1F /* EncrypedCoreData 4.xcdatamodel */,
+				1E96950422C231DA00825F1F /* EncrypedCoreData 5.xcdatamodel */,
+				1E96950522C231DA00825F1F /* EncrypedCoreData.xcdatamodel */,
 			);
-			currentVersion = 1E0A627D21BE4A7C0023CE34 /* EncrypedCoreData 3.xcdatamodel */;
+			currentVersion = 1E96950722C231F400825F1F /* EncrypedCoreData 6.xcdatamodel */;
 			path = EncrypedCoreData.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;

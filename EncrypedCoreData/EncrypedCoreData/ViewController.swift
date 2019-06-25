@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         let user = User(context: managedObjectContext)
         
         // Configure User
-        user.firstName = "First1"
+        user.firstName1 = "First1"
         user.lastName = "Last1"
         user.age = 10
         user.surname = "Sur1"
@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         let user1 = User(context: managedObjectContext)
         
         // Configure User
-        user1.firstName = "First2"
+        user1.firstName1 = "First2"
         user1.lastName = "Last2"
         user1.age = 20
         user1.surname = "sur2"
@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         let user2 = User(context: managedObjectContext)
         
         // Configure User
-        user2.firstName = "First3"
+        user2.firstName1 = "First3"
         user2.lastName = "Last3"
         user2.age = 30
         user2.surname = "sur3"
@@ -60,7 +60,7 @@ class ViewController: UIViewController {
         do {
             let result = try managedObjectContext.fetch(request)
             for data in result as! [User] {
-                print(data.firstName ?? "No firstName")
+                print(data.firstName1 ?? "No firstName")
                 print(data.lastName ?? "No lastName")
                 print(data.surname ?? "No surname")
                 print(data.age )
